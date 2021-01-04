@@ -1,3 +1,11 @@
+# HOA verifier 
+
+Originally forked from Uniswap Sybil Verifer Worker
+
+
+
+# Original Documentation
+
 ## Sybil Verifier 
 
 This is a verifier used by the Sybil interface for verifying links between Ethereum addresses and Twitter profiles. 
